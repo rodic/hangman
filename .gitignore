@@ -1,0 +1,5 @@
+# Stack project files
+.stack-work/
+
+# Emacs backups
+*~
